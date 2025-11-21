@@ -14,7 +14,7 @@ This project is a **real-time Sign Language Recognition system** built using:
 
 The system supports:
 
-✔ Real-time recognition  
+✔ Real-time recognition 
 ✔ ROI (hand-only) dataset capture  
 ✔ Training on custom gestures  
 ✔ Modern UI with background images  
